@@ -35,7 +35,7 @@ const Navbar = () => {
           ))}
         </ul>
         <div className=' hidden sm:flex'>
-          <button className='px-5 lg:px-7 py-2 border-2 border-purple-700 rounded-full lg:text-[18px]'>Github</button>
+        <a href="https://github.com/Pradeep71437" className='px-5 lg:px-7 py-2 border-2 border-purple-700 rounded-full lg:text-[18px]'>Github</a>
         </div>
 
         <div className='sm:hidden flex flex-1 justify-end items-center'>
@@ -68,7 +68,7 @@ const Navbar = () => {
                 </li>
 
               ))}
-           <button className='px-5 lg:px-7 py-2  bg-purple-700 rounded-full w-full lg:text-[18px]'>Github</button>
+           <a href="https://github.com/Pradeep71437" className='px-5 lg:px-7 py-2  bg-purple-700 rounded-full w-full lg:text-[18px]'>Github</a>
 
             </ul>
           </div>
