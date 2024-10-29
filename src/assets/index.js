@@ -25,6 +25,13 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import cbt from "./company/cbt.jpg";
+import nexglimpse from "./company/nexglimpse.png";
+import nexus from "./company/nexus.jpg";
+import igem from "./company/igem.png";
+
+
+
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -59,6 +66,10 @@ export {
   carrent,
   jobit,
   tripguide,
+  cbt,
+  nexus,
+  nexglimpse,
+  igem,
 };
 
 export const navLinks = [
